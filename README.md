@@ -31,7 +31,7 @@ This project contains the skins for different mobile device that you can add to 
 
 ---
 #### Disclaimer
-You can get in touch with me at Twitter: [@vivek_kaushik_](https://twitter.com/vivek_kaushik_)
+You can get in touch with me at Twitter: [@iamvivekkaushik](https://twitter.com/iamvivekkaushik)
 
 I post awesome stuff at Instagram: [@iamvivekkaushik](https://www.instagram.com/iamvivekkaushik/)
 
